@@ -1,0 +1,22 @@
+{
+    "name": "diaactorsvost",
+    "title": "vostdiaactors",
+    "description": "A module containing the exported vostdiaactors compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "author": "Vost",
+    "packs": [
+        {
+            "type": "Actor",
+            "label": "BG-DIA actors",
+            "module": "diaactorsvost",
+            "path": "packs/world-bg-dia-actors-1651067787992.db",
+            "name": "world-bg-dia-actors-1651067787992"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+}
